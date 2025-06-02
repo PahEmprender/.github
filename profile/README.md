@@ -3,7 +3,7 @@
 ## Software para Todos | Software for Everyone
 
 [![GitHub](https://img.shields.io/badge/GitHub-pahemprender-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pahemprender)
-[![Email](https://img.shields.io/badge/Email-info@pahemprender.org-green?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:info@pahemprender.org)
+[![Email](https://img.shields.io/badge/Email-info@pahemprender.org-green?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:hello@pahemprender.org)
 [![Website](https://img.shields.io/badge/Website-pahemprender.org-brightgreen?style=for-the-badge&logo=globe)](https://pahemprender.org)
 
 ---
